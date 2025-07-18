@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/welder_control/welder_control.egg-info
+writing ../../build/welder_control/welder_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/welder_control/welder_control.egg-info/dependency_links.txt
+writing entry points to ../../build/welder_control/welder_control.egg-info/entry_points.txt
+writing requirements to ../../build/welder_control/welder_control.egg-info/requires.txt
+writing top-level names to ../../build/welder_control/welder_control.egg-info/top_level.txt
+writing manifest file '../../build/welder_control/welder_control.egg-info/SOURCES.txt'
+reading manifest file '../../build/welder_control/welder_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/welder_control/welder_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kriso/arm_tuto_WS/build/welder_control/build
+creating /home/kriso/arm_tuto_WS/build/welder_control/build/lib
+creating /home/kriso/arm_tuto_WS/build/welder_control/build/lib/welder_control
+copying welder_control/main.py -> /home/kriso/arm_tuto_WS/build/welder_control/build/lib/welder_control
+copying welder_control/__init__.py -> /home/kriso/arm_tuto_WS/build/welder_control/build/lib/welder_control
+running install
+running install_lib
+creating /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control
+copying /home/kriso/arm_tuto_WS/build/welder_control/build/lib/welder_control/main.py -> /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control
+copying /home/kriso/arm_tuto_WS/build/welder_control/build/lib/welder_control/__init__.py -> /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control
+byte-compiling /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control/main.py to main.cpython-310.pyc
+byte-compiling /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index
+creating /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index/resource_index
+creating /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index/resource_index/packages
+copying resource/welder_control -> /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index/resource_index/packages
+copying package.xml -> /home/kriso/arm_tuto_WS/install/welder_control/share/welder_control
+running install_egg_info
+Copying ../../build/welder_control/welder_control.egg-info to /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing welder_cont script to /home/kriso/arm_tuto_WS/install/welder_control/lib/welder_control
+writing list of installed files to '/home/kriso/arm_tuto_WS/build/welder_control/install.log'

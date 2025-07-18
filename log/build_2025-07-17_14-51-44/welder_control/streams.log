@@ -1,0 +1,37 @@
+[0.795s] Invoking command in '/home/kriso/arm_tuto_WS/src/welder_control': PYTHONPATH=/home/kriso/arm_tuto_WS/build/welder_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/welder_control build --build-base /home/kriso/arm_tuto_WS/build/welder_control/build install --record /home/kriso/arm_tuto_WS/build/welder_control/install.log --single-version-externally-managed install_data
+[0.959s] running egg_info
+[0.960s] creating ../../build/welder_control/welder_control.egg-info
+[0.960s] writing ../../build/welder_control/welder_control.egg-info/PKG-INFO
+[0.960s] writing dependency_links to ../../build/welder_control/welder_control.egg-info/dependency_links.txt
+[0.960s] writing entry points to ../../build/welder_control/welder_control.egg-info/entry_points.txt
+[0.960s] writing requirements to ../../build/welder_control/welder_control.egg-info/requires.txt
+[0.960s] writing top-level names to ../../build/welder_control/welder_control.egg-info/top_level.txt
+[0.960s] writing manifest file '../../build/welder_control/welder_control.egg-info/SOURCES.txt'
+[0.961s] reading manifest file '../../build/welder_control/welder_control.egg-info/SOURCES.txt'
+[0.961s] writing manifest file '../../build/welder_control/welder_control.egg-info/SOURCES.txt'
+[0.961s] running build
+[0.961s] running build_py
+[0.962s] creating /home/kriso/arm_tuto_WS/build/welder_control/build
+[0.962s] creating /home/kriso/arm_tuto_WS/build/welder_control/build/lib
+[0.962s] creating /home/kriso/arm_tuto_WS/build/welder_control/build/lib/welder_control
+[0.962s] copying welder_control/main.py -> /home/kriso/arm_tuto_WS/build/welder_control/build/lib/welder_control
+[0.962s] copying welder_control/__init__.py -> /home/kriso/arm_tuto_WS/build/welder_control/build/lib/welder_control
+[0.962s] running install
+[0.962s] running install_lib
+[0.962s] creating /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control
+[0.962s] copying /home/kriso/arm_tuto_WS/build/welder_control/build/lib/welder_control/main.py -> /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control
+[0.963s] copying /home/kriso/arm_tuto_WS/build/welder_control/build/lib/welder_control/__init__.py -> /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control
+[0.963s] byte-compiling /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control/main.py to main.cpython-310.pyc
+[0.963s] byte-compiling /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control/__init__.py to __init__.cpython-310.pyc
+[0.963s] running install_data
+[0.963s] creating /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index
+[0.963s] creating /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index/resource_index
+[0.963s] creating /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index/resource_index/packages
+[0.963s] copying resource/welder_control -> /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index/resource_index/packages
+[0.963s] copying package.xml -> /home/kriso/arm_tuto_WS/install/welder_control/share/welder_control
+[0.964s] running install_egg_info
+[0.964s] Copying ../../build/welder_control/welder_control.egg-info to /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder_control-0.0.0-py3.10.egg-info
+[0.965s] running install_scripts
+[0.977s] Installing welder_cont script to /home/kriso/arm_tuto_WS/install/welder_control/lib/welder_control
+[0.978s] writing list of installed files to '/home/kriso/arm_tuto_WS/build/welder_control/install.log'
+[0.994s] Invoked command in '/home/kriso/arm_tuto_WS/src/welder_control' returned '0': PYTHONPATH=/home/kriso/arm_tuto_WS/build/welder_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/welder_control build --build-base /home/kriso/arm_tuto_WS/build/welder_control/build install --record /home/kriso/arm_tuto_WS/build/welder_control/install.log --single-version-externally-managed install_data
