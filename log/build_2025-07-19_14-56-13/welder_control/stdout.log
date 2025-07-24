@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating welder_control.egg-info
+writing welder_control.egg-info/PKG-INFO
+writing dependency_links to welder_control.egg-info/dependency_links.txt
+writing entry points to welder_control.egg-info/entry_points.txt
+writing requirements to welder_control.egg-info/requires.txt
+writing top-level names to welder_control.egg-info/top_level.txt
+writing manifest file 'welder_control.egg-info/SOURCES.txt'
+reading manifest file 'welder_control.egg-info/SOURCES.txt'
+writing manifest file 'welder_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kriso/arm_tuto_WS/install/welder_control/lib/python3.10/site-packages/welder-control.egg-link (link to .)
+Installing welder_cont script to /home/kriso/arm_tuto_WS/install/welder_control/lib/welder_control
+
+Installed /home/kriso/arm_tuto_WS/build/welder_control
+running symlink_data
+creating /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index
+creating /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index/resource_index
+creating /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index/resource_index/packages
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_control/resource/welder_control -> /home/kriso/arm_tuto_WS/install/welder_control/share/ament_index/resource_index/packages
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_control/package.xml -> /home/kriso/arm_tuto_WS/install/welder_control/share/welder_control

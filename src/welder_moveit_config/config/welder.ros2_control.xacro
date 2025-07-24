@@ -6,7 +6,7 @@
         <ros2_control name="${name}" type="system">
             <hardware>
                 <!-- By default, set up controllers for simulation. This won't work on real hardware -->
-                <plugin>mock_components/GenericSystem</plugin>
+                <plugin>gazebo_ros2_control/GazeboSystem</plugin>
             </hardware>
             <joint name="joint_1">
                 <command_interface name="position"/>
@@ -52,5 +52,73 @@
             </joint>
 
         </ros2_control>
+
+        <!-- Transmissions -->
+        <transmission name="joint_1_trans">
+          <type>transmission_interface/SimpleTransmission</type>
+          <joint name="joint_1">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+          </joint>
+          <actuator name="joint_1_motor">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+            <mechanicalReduction>1</mechanicalReduction>
+          </actuator>
+        </transmission>
+
+        <transmission name="joint_2_trans">
+          <type>transmission_interface/SimpleTransmission</type>
+          <joint name="joint_2">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+          </joint>
+          <actuator name="joint_2_motor">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+            <mechanicalReduction>1</mechanicalReduction>
+          </actuator>
+        </transmission>
+
+        <transmission name="joint_3_trans">
+          <type>transmission_interface/SimpleTransmission</type>
+          <joint name="joint_3">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+          </joint>
+          <actuator name="joint_3_motor">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+            <mechanicalReduction>1</mechanicalReduction>
+          </actuator>
+        </transmission>
+
+        <transmission name="joint_4_trans">
+          <type>transmission_interface/SimpleTransmission</type>
+          <joint name="joint_4">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+          </joint>
+          <actuator name="joint_4_motor">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+            <mechanicalReduction>1</mechanicalReduction>
+          </actuator>
+        </transmission>
+
+        <transmission name="joint_5_trans">
+          <type>transmission_interface/SimpleTransmission</type>
+          <joint name="joint_5">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+          </joint>
+          <actuator name="joint_5_motor">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+            <mechanicalReduction>1</mechanicalReduction>
+          </actuator>
+        </transmission>
+
+        <transmission name="joint_6_trans">
+          <type>transmission_interface/SimpleTransmission</type>
+          <joint name="joint_6">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+          </joint>
+          <actuator name="joint_6_motor">
+            <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+            <mechanicalReduction>1</mechanicalReduction>
+          </actuator>
+        </transmission>
+
     </xacro:macro>
 </robot>

@@ -1,0 +1,2 @@
+Invoking command in '/home/kriso/arm_tuto_WS/build/welder_moveit_config': /usr/bin/cmake /home/kriso/arm_tuto_WS/src/welder_moveit_config -DCMAKE_INSTALL_PREFIX=/home/kriso/arm_tuto_WS/install/welder_moveit_config
+Invoked command in '/home/kriso/arm_tuto_WS/build/welder_moveit_config' returned '1': /usr/bin/cmake /home/kriso/arm_tuto_WS/src/welder_moveit_config -DCMAKE_INSTALL_PREFIX=/home/kriso/arm_tuto_WS/install/welder_moveit_config

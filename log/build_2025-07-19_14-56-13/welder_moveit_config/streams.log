@@ -1,0 +1,60 @@
+[0.004s] Invoking command in '/home/kriso/arm_tuto_WS/build/welder_moveit_config': AMENT_PREFIX_PATH=/home/kriso/arm_tuto_WS/install/welder_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble PYTHONPATH=/home/kriso/arm_tuto_WS/build/welder_description:/home/kriso/arm_tuto_WS/install/welder_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/kriso/arm_tuto_WS/src/welder_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kriso/arm_tuto_WS/install/welder_moveit_config
+[0.035s] -- The C compiler identification is GNU 11.4.0
+[0.069s] -- The CXX compiler identification is GNU 11.4.0
+[0.074s] -- Detecting C compiler ABI info
+[0.119s] -- Detecting C compiler ABI info - done
+[0.123s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.123s] -- Detecting C compile features
+[0.123s] -- Detecting C compile features - done
+[0.125s] -- Detecting CXX compiler ABI info
+[0.174s] -- Detecting CXX compiler ABI info - done
+[0.179s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.179s] -- Detecting CXX compile features
+[0.179s] -- Detecting CXX compile features - done
+[0.181s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.278s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.317s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.369s] -- Configuring done
+[0.370s] -- Generating done
+[0.371s] -- Build files have been written to: /home/kriso/arm_tuto_WS/build/welder_moveit_config
+[0.373s] Invoked command in '/home/kriso/arm_tuto_WS/build/welder_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/kriso/arm_tuto_WS/install/welder_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble PYTHONPATH=/home/kriso/arm_tuto_WS/build/welder_description:/home/kriso/arm_tuto_WS/install/welder_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/kriso/arm_tuto_WS/src/welder_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/kriso/arm_tuto_WS/install/welder_moveit_config
+[0.375s] Invoking command in '/home/kriso/arm_tuto_WS/build/welder_moveit_config': AMENT_PREFIX_PATH=/home/kriso/arm_tuto_WS/install/welder_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble PYTHONPATH=/home/kriso/arm_tuto_WS/build/welder_description:/home/kriso/arm_tuto_WS/install/welder_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/kriso/arm_tuto_WS/build/welder_moveit_config -- -j16 -l16
+[0.396s] Invoked command in '/home/kriso/arm_tuto_WS/build/welder_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/kriso/arm_tuto_WS/install/welder_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble PYTHONPATH=/home/kriso/arm_tuto_WS/build/welder_description:/home/kriso/arm_tuto_WS/install/welder_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --build /home/kriso/arm_tuto_WS/build/welder_moveit_config -- -j16 -l16
+[0.401s] Invoking command in '/home/kriso/arm_tuto_WS/build/welder_moveit_config': AMENT_PREFIX_PATH=/home/kriso/arm_tuto_WS/install/welder_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble PYTHONPATH=/home/kriso/arm_tuto_WS/build/welder_description:/home/kriso/arm_tuto_WS/install/welder_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/kriso/arm_tuto_WS/build/welder_moveit_config
+[0.405s] -- Install configuration: ""
+[0.405s] -- Execute custom install script
+[0.406s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/ament_index/resource_index/package_run_dependencies/welder_moveit_config
+[0.410s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/ament_index/resource_index/parent_prefix_path/welder_moveit_config
+[0.415s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/environment/ament_prefix_path.sh
+[0.420s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/environment/ament_prefix_path.dsv
+[0.424s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/environment/path.sh
+[0.429s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/environment/path.dsv
+[0.434s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/local_setup.bash
+[0.439s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/local_setup.sh
+[0.443s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/local_setup.zsh
+[0.448s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/local_setup.dsv
+[0.453s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/package.dsv
+[0.458s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/ament_index/resource_index/packages/welder_moveit_config
+[0.462s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/cmake/welder_moveit_configConfig.cmake
+[0.467s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/cmake/welder_moveit_configConfig-version.cmake
+[0.474s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/package.xml
+[0.486s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/launch/demo.launch.py
+[0.500s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/launch/move_group.launch.py
+[0.507s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/launch/moveit_rviz.launch.py
+[0.512s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/launch/rsp.launch.py
+[0.522s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/launch/setup_assistant.launch.py
+[0.538s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/launch/spawn_controllers.launch.py
+[0.549s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/launch/static_virtual_joint_tfs.launch.py
+[0.556s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/launch/warehouse_db.launch.py
+[0.561s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/config/initial_positions.yaml
+[0.566s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/config/joint_limits.yaml
+[0.570s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/config/kinematics.yaml
+[0.575s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/config/moveit.rviz
+[0.579s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/config/moveit_controllers.yaml
+[0.584s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/config/pilz_cartesian_limits.yaml
+[0.588s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/config/ros2_controllers.yaml
+[0.593s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/config/welder.ros2_control.xacro
+[0.597s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/config/welder.srdf
+[0.604s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/config/welder.urdf.xacro
+[0.612s] -- Symlinking: /home/kriso/arm_tuto_WS/install/welder_moveit_config/share/welder_moveit_config/.setup_assistant
+[0.621s] Invoked command in '/home/kriso/arm_tuto_WS/build/welder_moveit_config' returned '0': AMENT_PREFIX_PATH=/home/kriso/arm_tuto_WS/install/welder_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/opt/ros/humble PYTHONPATH=/home/kriso/arm_tuto_WS/build/welder_description:/home/kriso/arm_tuto_WS/install/welder_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake --install /home/kriso/arm_tuto_WS/build/welder_moveit_config

@@ -1,2 +1,1 @@
-source;share/welder_moveit_config/environment/ament_prefix_path.sh
-source;share/welder_moveit_config/environment/path.sh
+/home/kriso/arm_tuto_WS/build/welder_moveit_config/ament_cmake_environment_hooks/local_setup.dsv

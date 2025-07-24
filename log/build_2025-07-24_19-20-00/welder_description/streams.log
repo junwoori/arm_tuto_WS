@@ -1,0 +1,18 @@
+[0.701s] Invoking command in '/home/kriso/arm_tuto_WS/build/welder_description': PYTHONPATH=/home/kriso/arm_tuto_WS/build/welder_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kriso/arm_tuto_WS/install/welder_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kriso/arm_tuto_WS/build/welder_description/build --no-deps symlink_data
+[0.874s] running develop
+[0.915s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.12.1-git20200711.33e2d80-dfsg1-0.6 is an invalid version and will not be supported in a future release
+[0.915s]   warnings.warn(
+[0.994s] running egg_info
+[0.994s] writing welder_description.egg-info/PKG-INFO
+[0.994s] writing dependency_links to welder_description.egg-info/dependency_links.txt
+[0.994s] writing entry points to welder_description.egg-info/entry_points.txt
+[0.994s] writing requirements to welder_description.egg-info/requires.txt
+[0.995s] writing top-level names to welder_description.egg-info/top_level.txt
+[0.996s] reading manifest file 'welder_description.egg-info/SOURCES.txt'
+[0.996s] writing manifest file 'welder_description.egg-info/SOURCES.txt'
+[1.016s] running build_ext
+[1.016s] Creating /home/kriso/arm_tuto_WS/install/welder_description/lib/python3.10/site-packages/welder-description.egg-link (link to .)
+[1.017s] 
+[1.017s] Installed /home/kriso/arm_tuto_WS/build/welder_description
+[1.017s] running symlink_data
+[1.047s] Invoked command in '/home/kriso/arm_tuto_WS/build/welder_description' returned '0': PYTHONPATH=/home/kriso/arm_tuto_WS/build/welder_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kriso/arm_tuto_WS/install/welder_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kriso/arm_tuto_WS/build/welder_description/build --no-deps symlink_data

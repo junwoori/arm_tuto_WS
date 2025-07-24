@@ -1,0 +1,41 @@
+running develop
+running egg_info
+creating welder_description.egg-info
+writing welder_description.egg-info/PKG-INFO
+writing dependency_links to welder_description.egg-info/dependency_links.txt
+writing entry points to welder_description.egg-info/entry_points.txt
+writing requirements to welder_description.egg-info/requires.txt
+writing top-level names to welder_description.egg-info/top_level.txt
+writing manifest file 'welder_description.egg-info/SOURCES.txt'
+reading manifest file 'welder_description.egg-info/SOURCES.txt'
+writing manifest file 'welder_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kriso/arm_tuto_WS/install/welder_description/lib/python3.10/site-packages/welder-description.egg-link (link to .)
+
+Installed /home/kriso/arm_tuto_WS/build/welder_description
+running symlink_data
+creating /home/kriso/arm_tuto_WS/install/welder_description/share/ament_index
+creating /home/kriso/arm_tuto_WS/install/welder_description/share/ament_index/resource_index
+creating /home/kriso/arm_tuto_WS/install/welder_description/share/ament_index/resource_index/packages
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/resource/welder_description -> /home/kriso/arm_tuto_WS/install/welder_description/share/ament_index/resource_index/packages
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/package.xml -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description
+creating /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/launch
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/launch/gazebo.launch.py -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/launch
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/launch/display.launch.py -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/launch
+creating /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/urdf
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/urdf/welder.xacro -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/urdf
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/urdf/welder.trans -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/urdf
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/urdf/welder.gazebo -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/urdf
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/urdf/welder.urdf -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/urdf
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/urdf/ros2_control.xacro -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/urdf
+creating /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/meshes
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/meshes/link_1_1.stl -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/meshes
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/meshes/link_4_1.stl -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/meshes
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/meshes/base_link.stl -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/meshes
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/meshes/link_2_1.stl -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/meshes
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/meshes/link_6_1.stl -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/meshes
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/meshes/link_5_1.stl -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/meshes
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/meshes/link_3_1.stl -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/meshes
+creating /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/config
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/config/display.rviz -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/config
+symbolically linking /home/kriso/arm_tuto_WS/build/welder_description/config/my_controllers.yaml -> /home/kriso/arm_tuto_WS/install/welder_description/share/welder_description/config

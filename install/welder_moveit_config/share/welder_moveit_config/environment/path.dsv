@@ -1,1 +1,1 @@
-prepend-non-duplicate-if-exists;PATH;bin
+/home/kriso/arm_tuto_WS/build/welder_moveit_config/ament_cmake_environment_hooks/path.dsv

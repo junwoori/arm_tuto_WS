@@ -1,7 +1,1 @@
-from moveit_configs_utils import MoveItConfigsBuilder
-from moveit_configs_utils.launches import generate_setup_assistant_launch
-
-
-def generate_launch_description():
-    moveit_config = MoveItConfigsBuilder("welder", package_name="welder_moveit_config").to_moveit_configs()
-    return generate_setup_assistant_launch(moveit_config)
+/home/kriso/arm_tuto_WS/src/welder_moveit_config/launch/setup_assistant.launch.py

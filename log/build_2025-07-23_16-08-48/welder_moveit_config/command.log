@@ -1,0 +1,2 @@
+Invoking command in '/home/kriso/arm_tuto_WS/build/welder_moveit_config': /usr/bin/cmake --build /home/kriso/arm_tuto_WS/build/welder_moveit_config -- -j16 -l16
+Invoked command in '/home/kriso/arm_tuto_WS/build/welder_moveit_config' returned '2': /usr/bin/cmake --build /home/kriso/arm_tuto_WS/build/welder_moveit_config -- -j16 -l16
